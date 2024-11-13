@@ -1,4 +1,4 @@
-1)Project Description
+1)Project Description (LOOM EXPLANATION-https://www.loom.com/share/14d8b03b4e7b4000a36a6e4bb1fb115c?sid=45092474-63e4-47be-9dfd-9e8eb973e9a0)
 This project is a Streamlit dashboard designed to allow users to upload a CSV file or connect to a Google Sheet. It enables querying data from these sources and augments the queries with web search results using SerpAPI. The dashboard integrates the Gemini API to process these search results and extract meaningful information, which is then presented to the user. The extracted data can be downloaded as a CSV file.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![WhatsApp Image 2024-11-13 at 8 40 33 PM](https://github.com/user-attachments/assets/4e320081-41ad-4232-82c3-cf10e4782bac)
