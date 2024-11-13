@@ -1,11 +1,24 @@
 1)Project Description
 This project is a Streamlit dashboard designed to allow users to upload a CSV file or connect to a Google Sheet. It enables querying data from these sources and augments the queries with web search results using SerpAPI. The dashboard integrates the Gemini API to process these search results and extract meaningful information, which is then presented to the user. The extracted data can be downloaded as a CSV file.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![WhatsApp Image 2024-11-13 at 8 40 33 PM](https://github.com/user-attachments/assets/4e320081-41ad-4232-82c3-cf10e4782bac)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![WhatsApp Image 2024-11-13 at 8 40 33 PM (1)](https://github.com/user-attachments/assets/fc030962-a04c-47c4-b143-b21a5a462558)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![WhatsApp Image 2024-11-13 at 8 40 33 PM (2)](https://github.com/user-attachments/assets/b71589c1-0822-4907-9c3b-8bbcdc925b70)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![WhatsApp Image 2024-11-13 at 8 40 33 PM (3)](https://github.com/user-attachments/assets/ff41728f-88c8-49ef-97e5-dd51200302cb)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![WhatsApp Image 2024-11-13 at 8 40 33 PM (4)](https://github.com/user-attachments/assets/f50ea35d-23ff-476c-ab0b-7f758bffc5d2)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![WhatsApp Image 2024-11-13 at 8 40 33 PM (5)](https://github.com/user-attachments/assets/92f5b6a6-2fac-4aca-bbcf-9c95d1199704)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![WhatsApp Image 2024-11-13 at 8 40 33 PM (6)](https://github.com/user-attachments/assets/40d2f987-3fa6-4243-8839-ebdee682ed1a)
 
 
